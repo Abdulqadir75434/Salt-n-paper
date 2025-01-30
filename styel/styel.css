@@ -539,3 +539,22 @@ h3{
             margin-top: 100px;
             /* margin: 20px; */
          }
+         .h3-4{
+            font-size: 32px;
+            margin: 32px 0px 24px;
+         }
+         .publication-main{
+            text-align: center;
+            /* border: 1px solid white; */
+            /* width: 245px; */
+            margin-bottom: 60px;
+         }
+         .publication-span{
+            font-size: 20px;
+            margin: 0px 0px 24px;
+         }
+         .publication-pera1{
+            font-size: 16px;
+            margin: 10px;
+            color: #ffffffb3;
+         }
