@@ -517,3 +517,25 @@ h3{
          line-height: normal;
          text-align: end;
          }
+
+         .img-39{
+            width: 500px;
+            height: 500px;
+            
+         }
+         .publication-img1{
+            border: 1px solid #ffffffb3;
+            width:550px;
+            margin: 10px;
+         }
+         .publication-img2{
+            border: 1px solid #ffffffb3;
+            width:550px; 
+            margin:10px ;
+         }
+         .publication-img{
+            display: flex;
+            justify-content: center;
+            margin-top: 100px;
+            /* margin: 20px; */
+         }
