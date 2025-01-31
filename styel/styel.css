@@ -606,7 +606,7 @@ h3{
             background-color: black;
             color: white;
             font-size: 20px;
-            height: 110px; */
+            height: 110px; 
             width: 50%;
         }
         
@@ -620,7 +620,7 @@ h3{
             cursor: pointer;
             margin-top: 10px;
             border-radius: 10px;
-            margin-left:100px ;
+            margin-left:120px ;
         }
         
         .button:hover {
