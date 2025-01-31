@@ -558,8 +558,72 @@ h3{
             margin: 10px;
             color: #ffffffb3;
          }
+
+         .franchise-mani{
+            justify-content: center;
+            align-items: center;
+             height: 100vh; */
+            margin: 0;
+         }
          .h2-2{
             font-size: 35px;
             margin: 0px 0px 24px;
             text-align: center;
          }
+
+         .form-container {
+            text-align: center;
+            width: 800px;
+        }
+        
+        
+        
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .row {
+            display: flex;
+            justify-content: center;
+             
+        }
+        
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            width: 40%;
+            padding: 10px; 
+            
+            /* height: 100px; */
+
+        }
+        
+        .input{
+            padding: 10px;
+            border: 1px solid gray;
+            background-color: black;
+            color: white;
+            font-size: 20px;
+            height: 110px; */
+            width: 50%;
+        }
+        
+        .button {
+            width: 150px;
+            padding: 10px;
+            background-color: gold;
+            color: black;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+            border-radius: 10px;
+            margin-left:100px ;
+        }
+        
+        .button:hover {
+            background-color: darkgoldenrod;
+        }
+       
