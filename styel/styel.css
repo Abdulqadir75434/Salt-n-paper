@@ -52,7 +52,7 @@ body{
 }
 .nav-item{
     display: flex;
-    gap: 25px;
+    gap: 5px;
     flex-wrap: wrap;
     align-items: center;
     font-size: 1.5rem;
@@ -100,7 +100,7 @@ body{
 
 @font-face{
     font-family: futurak;
-    src: url('../font/futurablack-bt.ttf');
+    src: url('..//font/font/futurablack-bt.ttf');
 }
 @font-face{
     font-family:apercu;
@@ -390,6 +390,8 @@ h3{
         margin-top: 30px; 
         align-items: center;
         margin-bottom: 100px;
+         border-color:#28a745 ;
+
     }
     #arrow-1{
         background-color: white;
@@ -427,6 +429,7 @@ h3{
         font-weight: bold;
         font-family: futura;
         font-size: 16px;
+        color: black;
     }
     .meni-card{
         display: flex;
@@ -562,8 +565,8 @@ h3{
          .franchise-mani{
             justify-content: center;
             align-items: center;
-             height: 100vh; */
-            margin: 0;
+             height: 100vh; 
+            /* margin: ; */
          }
          .h2-2{
             font-size: 35px;
@@ -626,4 +629,6 @@ h3{
         .button:hover {
             background-color: darkgoldenrod;
         }
-       
+        .Direction-btn-2:hover{
+            background-color: black;
+        }
